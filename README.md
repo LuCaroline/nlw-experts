@@ -1,1 +1,3 @@
-# nlw-experts
+ # nlw-experts
+
+ ## tecnologias utilizadas
